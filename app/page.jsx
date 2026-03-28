@@ -187,7 +187,6 @@ export default function FriendsOfScoutingWebsite() {
                           <div>13073 Stony Brook Pass</div>
                           <div>Linden, MI 48451</div>
                           <div className="pt-2 font-medium text-[#1c3923]">bbrowning.80@gmail.com</div>
-                          <div>EIN: 41-2719516</div>
                         </div>
                       </div>
 
@@ -414,7 +413,6 @@ export default function FriendsOfScoutingWebsite() {
                       <div>13073 Stony Brook Pass</div>
                       <div>Linden, MI 48451</div>
                       <div>bbrowning.80@gmail.com</div>
-                      <div>EIN: 41-2719516</div>
                     </div>
                   </div>
                 </div>
@@ -429,7 +427,7 @@ export default function FriendsOfScoutingWebsite() {
             <h2 className="mt-3 text-2xl font-bold tracking-tight text-[#17341f] md:text-3xl">
               Get in touch
             </h2>
-            <div className="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+            <div className="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-3">
               <div className="rounded-2xl bg-[#f7f2e9] p-5">
                 <div className="text-xs font-semibold uppercase tracking-[0.18em] text-[#86633b]">Organization</div>
                 <div className="mt-2 text-sm text-slate-700">Friends of Scouting</div>
@@ -437,10 +435,6 @@ export default function FriendsOfScoutingWebsite() {
               <div className="rounded-2xl bg-[#f7f2e9] p-5">
                 <div className="text-xs font-semibold uppercase tracking-[0.18em] text-[#86633b]">Email</div>
                 <div className="mt-2 text-sm text-slate-700">bbrowning.80@gmail.com</div>
-              </div>
-              <div className="rounded-2xl bg-[#f7f2e9] p-5">
-                <div className="text-xs font-semibold uppercase tracking-[0.18em] text-[#86633b]">EIN</div>
-                <div className="mt-2 text-sm text-slate-700">41-2719516</div>
               </div>
               <div className="rounded-2xl bg-[#f7f2e9] p-5">
                 <div className="text-xs font-semibold uppercase tracking-[0.18em] text-[#86633b]">Address</div>
